@@ -32,6 +32,7 @@ Extra
 - ORM: SQLAlchemy
 
 - Instalando o Bcrypt: `pip install bcrypt`
+- SQL Injection: https://www.hacksplaining.com/exercises/sql-injection
 
 ## Desafios:
 
