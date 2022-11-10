@@ -23,3 +23,19 @@ Extra
     - Path
   - Erros (segurança e tipo de renderização)
   - Tipo de método e template
+
+## Lidando com o banco de dados
+
+- Driver: psycopg2
+  - Instalação: `pip install psycopg2`
+    - ou `pdm add psycopg2`
+- ORM: SQLAlchemy
+
+- Instalando o Bcrypt: `pip install bcrypt`
+
+## Desafios:
+
+1. Paginação
+2. O que são e como fazer operações de JOIN
+3. Entender a abertura e fechamento de conexões. Pesquisar pool de conexões. Como criá-las?
+4. Criar uma operação de CRUD com o ORM do SQLAlchemy
